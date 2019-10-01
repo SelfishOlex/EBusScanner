@@ -1,5 +1,5 @@
 # EBusScanner
-Scans your source code for Lumberyard EBuses and their use. Build a digraph out of that information.
+Scans your source code for Lumberyard EBuses and their use. Builds a digraph out of that information.
 
 ## Usage
 
